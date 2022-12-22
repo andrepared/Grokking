@@ -79,7 +79,7 @@ class HandcappedSpot extends ParkingSpot {
 // vehicle here refers to an instance of the Vehicle Class
     assignVehicle(vehicle) {
     //definition
-    }parkingRate
+    }
 }
 class CompactSpot extends ParkingSpot {
 // vehicle here refers to an instance of the Vehicle Class
