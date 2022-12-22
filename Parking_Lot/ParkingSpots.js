@@ -45,6 +45,7 @@ construtor(zipCode, address, city, state, country) {
     this.#city = city;
     this.#state = state;
     this.#country = country;
+    this.#address = address;
     }
 }
 
